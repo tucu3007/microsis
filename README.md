@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Retry once for Docker CI failures (#8164)
