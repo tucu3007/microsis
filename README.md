@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Remove unused variables (#8511)
