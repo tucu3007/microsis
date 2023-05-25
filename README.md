@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Hold failed upload metrics and upload with next upload metrics (#8513)
