@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
