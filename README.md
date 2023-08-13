@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
