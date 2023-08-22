@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+fix yolo classify model loading error (#9196)
