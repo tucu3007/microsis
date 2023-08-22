@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Compress docs images (#8124)
