@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
