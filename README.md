@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
