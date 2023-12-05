@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Explorer with LanceDB, Actions and Docs updates (#7487)
