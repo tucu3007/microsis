@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
