@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
