@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update mkdocs.yml (#7693)
