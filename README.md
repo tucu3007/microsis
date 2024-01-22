@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Move Explorer tests to scheduled CI (#8305)
