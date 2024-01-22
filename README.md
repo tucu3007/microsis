@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+YOLOv8 INT8 TFLite Inference Example (#7317)
