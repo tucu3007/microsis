@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Explorer with LanceDB, Actions and Docs updates (#7487)
