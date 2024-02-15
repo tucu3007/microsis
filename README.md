@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
