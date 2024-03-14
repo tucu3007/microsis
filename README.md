@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add docstrings to new HUB functions (#7576)
