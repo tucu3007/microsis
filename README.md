@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
