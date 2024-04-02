@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add C++ Classify inference example (#6868)
