@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+New HUB Cloud Training docs page (#8174)
