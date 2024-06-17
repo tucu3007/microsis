@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
