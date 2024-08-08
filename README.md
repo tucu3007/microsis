@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
