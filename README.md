@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
