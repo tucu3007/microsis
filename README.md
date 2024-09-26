@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Python refactorings and simplifications (#7549)
