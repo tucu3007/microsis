@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix TypeError in check_cfg() (#9245)
