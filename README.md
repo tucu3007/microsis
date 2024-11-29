@@ -1,1 +1,1 @@
-Add https://youtu.be/YDXKa1EljmU and https://youtu.be/5BO0Il_YYAg to Docs (#8958)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
