@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
