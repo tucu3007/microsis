@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Improve Coral Edge TPU guide (#8160)
